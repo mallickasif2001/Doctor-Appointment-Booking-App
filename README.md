@@ -1,4 +1,3 @@
-# Doctor-Appointment-Booking-App
 # 🏥 Doctor Appointment Booking App
 
 A modern, responsive, and user-friendly web application to **book doctor appointments online** — made for patients, doctors, and admin. Built using **React.js**, **Node.js**, and **MongoDB** with a clean UI and secure login system.
